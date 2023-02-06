@@ -44,3 +44,12 @@ a:hover {
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+:root {
+    /* CSS HEX */
+    --main-color: #7EAAC0ff;
+    --fourth-color: #DDD123ff;
+    --second-color: #E31D26ff;
+    --third-color: #8DC9E3ff;
+    --background-color: #466867ff;
+}
